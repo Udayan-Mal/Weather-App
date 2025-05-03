@@ -1,7 +1,7 @@
 # Weather App
 
 - Live Link : [Weather](https://weather-app-theta-three-87.vercel.app/)
-It ia a Weather Applic
+It ia a Weather Application
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
